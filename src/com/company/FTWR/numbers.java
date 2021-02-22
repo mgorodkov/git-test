@@ -10,7 +10,7 @@ public class numbers {
     static char i = 63;
 
     static float f = 7.5f;
-    static double r = 57.76;
+    static double r = 57.766;
 
     static boolean g = true;
 
@@ -24,6 +24,7 @@ public class numbers {
         System.out.println(f);
         System.out.println(r);
         System.out.println(g);
+        System.out.println("коммит");
 
     }
 }
